@@ -1,0 +1,2 @@
+Dataset resource : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+Heroku-app : http://frontend-m-one-p-two-ocha.herokuapp.com
